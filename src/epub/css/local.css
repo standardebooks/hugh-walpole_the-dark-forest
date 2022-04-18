@@ -2,6 +2,11 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
+#chapter-2-5 blockquote p:last-child{
+	font-style: italic;
+	text-align: center;
+}
+
 q,
 body [xml|lang]{
 	font-style: italic;
