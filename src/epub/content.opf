@@ -48,7 +48,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/19614</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.210152</dc:source>
-		<meta property="se:word-count">95822</meta>
+		<meta property="se:word-count">95823</meta>
 		<meta property="se:reading-ease.flesch">71.95</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/hugh-walpole_the-dark-forest</meta>
 		<dc:creator id="author">Hugh Walpole</dc:creator>
